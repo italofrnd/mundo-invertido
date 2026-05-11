@@ -2,13 +2,13 @@
 
 Landing page inspirada no universo de Stranger Things com alternância entre temas claro e escuro, animações e manipulação dinâmica do DOM.
 
-## 🚀 Tecnologias
+Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
 
-## ✨ Funcionalidades
+Funcionalidades
 
 - Alternância entre tema claro e escuro
 - Manipulação dinâmica do DOM
@@ -16,13 +16,8 @@ Landing page inspirada no universo de Stranger Things com alternância entre tem
 - Animações com CSS
 - Estrutura semântica e acessível
 
-## 📸 Preview
+Estrutura do Projeto
 
-Adicione aqui screenshots ou GIFs do projeto.
-
-## 📂 Estrutura do Projeto
-
-```bash
 ├── assets
 ├── css
 ├── images
